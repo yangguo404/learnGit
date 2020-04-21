@@ -28,4 +28,8 @@
 - (void)fun5{
     NSLog(@"");
 }
+
+- (void)fun6{
+    NSLog(@"");
+}
 @end
