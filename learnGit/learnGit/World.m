@@ -12,4 +12,9 @@
 - (void)nnnnn{
     NSLog(@"");
 }
+
+- (void)fun1{
+    NSLog(@"");
+}
+
 @end
