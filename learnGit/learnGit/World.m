@@ -9,5 +9,7 @@
 #import "World.h"
 
 @implementation World
-
+- (void)nnnnn{
+    NSLog(@"");
+}
 @end
