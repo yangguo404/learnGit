@@ -17,4 +17,7 @@
     NSLog(@"");
 }
 
+- (void)fun2{
+    NSLog(@"");
+}
 @end
