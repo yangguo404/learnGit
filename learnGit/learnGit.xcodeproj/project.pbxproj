@@ -19,6 +19,7 @@
 		F8CB7B77244F37ED0041BBA0 /* World.m in Sources */ = {isa = PBXBuildFile; fileRef = F8CB7B76244F37ED0041BBA0 /* World.m */; };
 		F8CB7B7A244F37FA0041BBA0 /* Hello.m in Sources */ = {isa = PBXBuildFile; fileRef = F8CB7B79244F37F90041BBA0 /* Hello.m */; };
 		F8CB7B7D244F38C80041BBA0 /* School.m in Sources */ = {isa = PBXBuildFile; fileRef = F8CB7B7C244F38C80041BBA0 /* School.m */; };
+		F8CB7B86244F3BFD0041BBA0 /* Tech.m in Sources */ = {isa = PBXBuildFile; fileRef = F8CB7B85244F3BFD0041BBA0 /* Tech.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,6 +64,8 @@
 		F8CB7B79244F37F90041BBA0 /* Hello.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Hello.m; sourceTree = "<group>"; };
 		F8CB7B7B244F38C80041BBA0 /* School.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = School.h; sourceTree = "<group>"; };
 		F8CB7B7C244F38C80041BBA0 /* School.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = School.m; sourceTree = "<group>"; };
+		F8CB7B84244F3BFD0041BBA0 /* Tech.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Tech.h; sourceTree = "<group>"; };
+		F8CB7B85244F3BFD0041BBA0 /* Tech.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tech.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,6 +128,8 @@
 				F8CB7B79244F37F90041BBA0 /* Hello.m */,
 				F8CB7B7B244F38C80041BBA0 /* School.h */,
 				F8CB7B7C244F38C80041BBA0 /* School.m */,
+				F8CB7B84244F3BFD0041BBA0 /* Tech.h */,
+				F8CB7B85244F3BFD0041BBA0 /* Tech.m */,
 				F8CB7B43244F2BD70041BBA0 /* Main.storyboard */,
 				F8CB7B46244F2BEB0041BBA0 /* Assets.xcassets */,
 				F8CB7B48244F2BEB0041BBA0 /* LaunchScreen.storyboard */,
@@ -287,6 +292,7 @@
 				F8CB7B77244F37ED0041BBA0 /* World.m in Sources */,
 				F8CB7B7D244F38C80041BBA0 /* School.m in Sources */,
 				F8CB7B3C244F2BD60041BBA0 /* AppDelegate.m in Sources */,
+				F8CB7B86244F3BFD0041BBA0 /* Tech.m in Sources */,
 				F8CB7B4D244F2BEB0041BBA0 /* main.m in Sources */,
 				F8CB7B3F244F2BD60041BBA0 /* SceneDelegate.m in Sources */,
 			);
