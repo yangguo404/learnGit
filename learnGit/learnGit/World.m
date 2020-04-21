@@ -24,4 +24,8 @@
 - (void)fun3{
     NSLog(@"");
 }
+
+- (void)fun5{
+    NSLog(@"");
+}
 @end
