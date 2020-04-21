@@ -20,4 +20,8 @@
 - (void)fun2{
     NSLog(@"");
 }
+
+- (void)fun3{
+    NSLog(@"");
+}
 @end
