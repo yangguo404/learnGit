@@ -36,4 +36,8 @@
 - (void)fun7{
     NSLog(@"fun7");
 }
+
+- (void)fun9{
+    NSLog(@"fun9");
+}
 @end
